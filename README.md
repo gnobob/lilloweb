@@ -1,6 +1,6 @@
 # Lilloweb
 
-**A browser built around your projects.** By 3Level Labs.
+**The browser built around your projects.** By 3Level Labs.
 
 Lilloweb is a Chromium browser with a workspace per project, a developer toolkit
 beside the page, and an agent that can work in your tabs.
